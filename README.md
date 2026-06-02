@@ -1,6 +1,6 @@
-<img width="1424" height="813" alt="image" src="https://github.com/user-attachments/assets/c5e3881d-1e70-4d2a-9737-982e6bcc2744" /># 🌿 Ayurvedic Health Assistant System
 
 A full-stack web app using React + Flask + MySQL + Naive Bayes ML
+<img width="1730" height="801" alt="image" src="https://github.com/user-attachments/assets/cf4183c7-b535-4c93-8b24-7218cf782990" />
 
 
 ## Project Structure
@@ -21,6 +21,8 @@ ayurvedic-app/
     ├── tailwind.config.js
     └── postcss.config.js
 ```
+
+<img width="1424" height="813" alt="image" src="https://github.com/user-attachments/assets/c5e3881d-1e70-4d2a-9737-982e6bcc2744" /># 🌿 Ayurvedic Health Assistant System
 
 ## Setup Instructions
 
