@@ -1,0 +1,181 @@
+[
+  {"disease": "Flu", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Tulsi Ginger Tea", "dosage": "2-3 cups daily", "precautions": "Avoid cold drinks", "contraindications": "None"},
+  {"disease": "Flu", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Sitopaladi Churna", "dosage": "1 tsp with honey twice daily", "precautions": "Drink warm water", "contraindications": "Pregnancy"},
+  {"disease": "Common Cold", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Trikatu Churna", "dosage": "500mg twice daily", "precautions": "Avoid cold exposure", "contraindications": "Hyperacidity"},
+  {"disease": "COVID-19", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Ashwagandha + Giloy", "dosage": "500mg each twice daily", "precautions": "Rest and hydration", "contraindications": "Auto-immune conditions"},
+  {"disease": "Food Poisoning", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Kutajghan Vati", "dosage": "2 tablets twice daily", "precautions": "ORS hydration", "contraindications": "Kidney disease"},
+  {"disease": "Dengue", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Papaya Leaf Extract", "dosage": "30ml twice daily", "precautions": "Monitor platelets", "contraindications": "Pregnancy"},
+  {"disease": "Pneumonia", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Vasaka (Malabar Nut)", "dosage": "2-4g daily", "precautions": "Steam inhalation", "contraindications": "Pregnancy"},
+  {"disease": "Allergy", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Haridra Khand", "dosage": "1 tsp with warm milk twice daily", "precautions": "Avoid allergens", "contraindications": "Diabetes (high sugar content)"},
+  {"disease": "Gastritis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Avipattikar Churna", "dosage": "1 tsp before meals", "precautions": "Avoid spicy food", "contraindications": "Diarrhea"},
+  {"disease": "Typhoid", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Sanjivani Vati", "dosage": "2 tablets twice daily", "precautions": "Light diet only", "contraindications": "None"},
+  {"disease": "Asthma", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Kanakasava", "dosage": "15-30ml after meals", "precautions": "Avoid dust and smoke", "contraindications": "Pregnancy"},
+  {"disease": "Arthritis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Yograj Guggulu", "dosage": "2 tablets twice daily", "precautions": "Warm oil massage", "contraindications": "Thyroid disorders"},
+  {"disease": "Tuberculosis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Chyawanprash + Vasavaleha", "dosage": "1 tsp each twice daily", "precautions": "Consult doctor", "contraindications": "Pregnancy"},
+  {"disease": "Eczema", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Neem Capsules + Manjistha", "dosage": "500mg each twice daily", "precautions": "Avoid scratching", "contraindications": "Pregnancy"},
+  {"disease": "Heart Disease", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Arjuna Capsules", "dosage": "500mg twice daily", "precautions": "Low-fat diet", "contraindications": "Anticoagulant therapy"},
+  {"disease": "Diabetes", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Karela + Jamun Powder", "dosage": "1 tsp twice daily before meals", "precautions": "Monitor blood sugar", "contraindications": "Hypoglycemia"},
+  {"disease": "Kidney Infection", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Punarnava Mandura", "dosage": "2 tablets twice daily", "precautions": "Plenty of water", "contraindications": "Severe renal failure"},
+  {"disease": "Jaundice", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Arogyavardhini Vati", "dosage": "2 tablets twice daily", "precautions": "Avoid fatty foods", "contraindications": "Liver failure"},
+  {"disease": "Tonsillitis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Khadiradi Vati", "dosage": "1 tablet every 4 hours", "precautions": "Gargle with warm salt water", "contraindications": "None"},
+
+  
+
+  
+  {"disease": "Viral Fever", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Sudarshan Churna", "dosage": "1 tsp twice daily", "precautions": "Avoid cold food and drinks", "contraindications": "Pregnancy"},
+  {"disease": "Viral Fever", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Giloy Ghan Vati", "dosage": "2 tablets thrice daily", "precautions": "Complete rest", "contraindications": "Diabetes"},
+  {"disease": "Viral Fever", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Sanjivani Vati + Giloy", "dosage": "2 tablets each twice daily", "precautions": "Monitor temperature", "contraindications": "None"},
+  {"disease": "Bronchitis", "age_min": 5, "age_max": 80, "gender": "any", "severity": "mild", "drug": "Sitopaladi Churna", "dosage": "1 tsp with honey thrice daily", "precautions": "Avoid cold exposure", "contraindications": "Diabetes"},
+  {"disease": "Bronchitis", "age_min": 5, "age_max": 80, "gender": "any", "severity": "moderate", "drug": "Vasa Avaleha", "dosage": "1 tsp twice daily", "precautions": "Steam inhalation", "contraindications": "Pregnancy"},
+  {"disease": "Bronchitis", "age_min": 5, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Talishadi Churna", "dosage": "1 tsp thrice daily", "precautions": "Bed rest", "contraindications": "None"},
+  {"disease": "Viral Myalgia", "age_min": 15, "age_max": 70, "gender": "any", "severity": "mild", "drug": "Rasnasaptak Kwath", "dosage": "30ml twice daily", "precautions": "Warm compress", "contraindications": "Pregnancy"},
+  {"disease": "Viral Myalgia", "age_min": 15, "age_max": 70, "gender": "any", "severity": "moderate", "drug": "Dashamoola Kwath", "dosage": "30ml twice daily", "precautions": "Avoid cold water", "contraindications": "None"},
+  {"disease": "Viral Myalgia", "age_min": 15, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Maharasnadi Kwath", "dosage": "30ml thrice daily", "precautions": "Complete rest", "contraindications": "Acid peptic disease"},
+  {"disease": "Gastroenteritis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Kutajghan Vati", "dosage": "1 tablet thrice daily", "precautions": "ORS hydration", "contraindications": "None"},
+  {"disease": "Gastroenteritis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Bilwadi Churna", "dosage": "1 tsp with buttermilk", "precautions": "Light diet", "contraindications": "Constipation"},
+  {"disease": "Gastroenteritis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Sunthi + Nagarmotha", "dosage": "500mg each thrice daily", "precautions": "Hospital referral if severe", "contraindications": "None"},
+  {"disease": "Chikungunya", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Giloy + Tulsi Juice", "dosage": "20ml twice daily", "precautions": "Rest and hydration", "contraindications": "None"},
+  {"disease": "Chikungunya", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Amruthotharam Kwath", "dosage": "30ml twice daily", "precautions": "Monitor joint pain", "contraindications": "Pregnancy"},
+  {"disease": "Chikungunya", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Yogaraj Guggulu + Ashwagandha", "dosage": "2 tablets each thrice daily", "precautions": "Physiotherapy if needed", "contraindications": "None"},
+  {"disease": "Pharyngitis", "age_min": 2, "age_max": 80, "gender": "any", "severity": "mild", "drug": "Yashtimadhu Ghee", "dosage": "1 tsp twice daily", "precautions": "Warm saline gargles", "contraindications": "Diabetes"},
+  {"disease": "Pharyngitis", "age_min": 2, "age_max": 80, "gender": "any", "severity": "moderate", "drug": "Vyoshadi Vati", "dosage": "2 tablets thrice daily", "precautions": "Avoid cold food", "contraindications": "Pregnancy"},
+  {"disease": "Pharyngitis", "age_min": 2, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Khadiradi Vati", "dosage": "1 tablet every 4 hours", "precautions": "Complete voice rest", "contraindications": "None"},
+  {"disease": "Viral Exanthem", "age_min": 0, "age_max": 60, "gender": "any", "severity": "mild", "drug": "Guduchi + Manjistha", "dosage": "500mg each twice daily", "precautions": "Avoid scratching", "contraindications": "None"},
+  {"disease": "Viral Exanthem", "age_min": 0, "age_max": 60, "gender": "any", "severity": "moderate", "drug": "Sarivadyasava", "dosage": "20ml twice daily", "precautions": "Calamine lotion if itching", "contraindications": "Pregnancy"},
+  {"disease": "Viral Exanthem", "age_min": 0, "age_max": 60, "gender": "any", "severity": "severe", "drug": "Panchatikta Guggulu", "dosage": "2 tablets thrice daily", "precautions": "Isolation if contagious", "contraindications": "None"},
+  {"disease": "Hepatitis A", "age_min": 5, "age_max": 50, "gender": "any", "severity": "mild", "drug": "Bhumi Amla Juice", "dosage": "20ml twice daily", "precautions": "Bed rest", "contraindications": "None"},
+  {"disease": "Hepatitis A", "age_min": 5, "age_max": 50, "gender": "any", "severity": "moderate", "drug": "Arogyavardhini Vati", "dosage": "2 tablets twice daily", "precautions": "Avoid fatty foods", "contraindications": "Pregnancy"},
+  {"disease": "Hepatitis A", "age_min": 5, "age_max": 50, "gender": "any", "severity": "severe", "drug": "Kutki + Punarnava", "dosage": "500mg each thrice daily", "precautions": "Hospitalization may be needed", "contraindications": "None"},
+  {"disease": "Pyelonephritis", "age_min": 15, "age_max": 80, "gender": "any", "severity": "mild", "drug": "Chandraprabha Vati", "dosage": "2 tablets twice daily", "precautions": "Plenty of water", "contraindications": "None"},
+  {"disease": "Pyelonephritis", "age_min": 15, "age_max": 80, "gender": "any", "severity": "moderate", "drug": "Punarnavashtak Kwath", "dosage": "30ml twice daily", "precautions": "Monitor fever", "contraindications": "Pregnancy"},
+  {"disease": "Pyelonephritis", "age_min": 15, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Gokshura + Varun", "dosage": "1 tsp each thrice daily", "precautions": "Medical supervision required", "contraindications": "None"},
+  {"disease": "Pleurisy", "age_min": 20, "age_max": 75, "gender": "any", "severity": "mild", "drug": "Shringyadi Churna", "dosage": "1 tsp with honey twice daily", "precautions": "Avoid cold", "contraindications": "None"},
+  {"disease": "Pleurisy", "age_min": 20, "age_max": 75, "gender": "any", "severity": "moderate", "drug": "Vasa + Pippali", "dosage": "500mg each thrice daily", "precautions": "Deep breathing exercises", "contraindications": "Pregnancy"},
+  {"disease": "Pleurisy", "age_min": 20, "age_max": 75, "gender": "any", "severity": "severe", "drug": "Dashamoola Rasayana", "dosage": "1 tsp thrice daily", "precautions": "Bed rest", "contraindications": "None"},
+  {"disease": "Pulmonary Tuberculosis", "age_min": 15, "age_max": 80, "gender": "any", "severity": "moderate", "drug": "Chyawanprash", "dosage": "1 tsp twice daily", "precautions": "Nutritious diet", "contraindications": "Diabetes (sugar content)"},
+  {"disease": "Pulmonary Tuberculosis", "age_min": 15, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Vasa + Pippali + Honey", "dosage": "500mg each thrice daily", "precautions": "Take allopathic treatment also", "contraindications": "None"},
+  {"disease": "Pulmonary Tuberculosis", "age_min": 15, "age_max": 80, "gender": "any", "severity": "mild", "drug": "Talisadi Churna", "dosage": "1 tsp twice daily", "precautions": "Avoid smoking", "contraindications": "None"},
+  {"disease": "Upper Respiratory Infection", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Trikatu Churna", "dosage": "500mg with honey thrice daily", "precautions": "Warm fluids", "contraindications": "Hyperacidity"},
+  {"disease": "Upper Respiratory Infection", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Sitopaladi Churna", "dosage": "1 tsp thrice daily", "precautions": "Rest", "contraindications": "Diabetes"},
+  {"disease": "Upper Respiratory Infection", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Dashamoola Kadha", "dosage": "30ml thrice daily", "precautions": "Steam inhalation", "contraindications": "Pregnancy"},
+  {"disease": "Post-Viral Syndrome", "age_min": 18, "age_max": 70, "gender": "any", "severity": "mild", "drug": "Ashwagandha Capsules", "dosage": "500mg twice daily", "precautions": "Gradual activity resumption", "contraindications": "None"},
+  {"disease": "Post-Viral Syndrome", "age_min": 18, "age_max": 70, "gender": "any", "severity": "moderate", "drug": "Brahmi + Shankhapushpi", "dosage": "500mg each twice daily", "precautions": "Sleep hygiene", "contraindications": "Pregnancy"},
+  {"disease": "Post-Viral Syndrome", "age_min": 18, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Balarishtam", "dosage": "30ml twice daily", "precautions": "Avoid stress", "contraindications": "None"},
+  {"disease": "Meningitis", "age_min": 0, "age_max": 60, "gender": "any", "severity": "severe", "drug": "Brahmi Vati + Sankhapushpi", "dosage": "2 tablets each thrice daily", "precautions": "Immediate hospitalization", "contraindications": "None"},
+  {"disease": "Meningitis", "age_min": 0, "age_max": 60, "gender": "any", "severity": "severe", "drug": "Guduchi + Tulsi", "dosage": "500mg each thrice daily", "precautions": "Neurological monitoring", "contraindications": "None"},
+  {"disease": "Meningitis", "age_min": 0, "age_max": 60, "gender": "any", "severity": "severe", "drug": "Jatamansi + Brahmi", "dosage": "250mg each thrice daily", "precautions": "Only adjuvant therapy", "contraindications": "None"},
+  {"disease": "Heat Exhaustion", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Jaljamini Vati", "dosage": "2 tablets thrice daily", "precautions": "Cool environment", "contraindications": "None"},
+  {"disease": "Heat Exhaustion", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Drakshasava", "dosage": "30ml twice daily", "precautions": "Oral rehydration", "contraindications": "Diabetes"},
+  {"disease": "Heat Exhaustion", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Sarivadyasava + Chandan", "dosage": "20ml each thrice daily", "precautions": "Cold sponging", "contraindications": "None"},
+  {"disease": "Sinusitis", "age_min": 10, "age_max": 70, "gender": "any", "severity": "mild", "drug": "Pippali + Sunthi", "dosage": "500mg each thrice daily", "precautions": "Steam inhalation", "contraindications": "None"},
+  {"disease": "Sinusitis", "age_min": 10, "age_max": 70, "gender": "any", "severity": "moderate", "drug": "Sitopaladi Churna", "dosage": "1 tsp thrice daily", "precautions": "Nasal saline rinse", "contraindications": "Diabetes"},
+  {"disease": "Sinusitis", "age_min": 10, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Dashamoola Katutraya Kwath", "dosage": "30ml thrice daily", "precautions": "Avoid cold", "contraindications": "Pregnancy"},
+  {"disease": "Migraine with GI symptoms", "age_min": 15, "age_max": 60, "gender": "any", "severity": "moderate", "drug": "Brahmi Vati", "dosage": "2 tablets twice daily", "precautions": "Avoid bright lights", "contraindications": "Low BP"},
+  {"disease": "Migraine with GI symptoms", "age_min": 15, "age_max": 60, "gender": "any", "severity": "severe", "drug": "Shankhapushpi Syrup", "dosage": "2 tsp thrice daily", "precautions": "Dark room rest", "contraindications": "None"},
+  {"disease": "Migraine with GI symptoms", "age_min": 15, "age_max": 60, "gender": "any", "severity": "mild", "drug": "Jatamansi + Brahmi", "dosage": "250mg each twice daily", "precautions": "Stress management", "contraindications": "None"},
+
+
+
+
+
+
+  {"disease": "Flu", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Tulsi Ginger Tea", "dosage": "2-3 cups daily", "precautions": "Avoid cold drinks", "contraindications": "None"},
+  {"disease": "Flu", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Sudarshan Ghan Vati", "dosage": "2 tablets thrice daily", "precautions": "Complete bed rest", "contraindications": "Pregnancy"},
+  {"disease": "Flu", "age_min": 5, "age_max": 80, "gender": "any", "severity": "moderate", "drug": "Tribhuvankirti Rasa", "dosage": "125mg twice daily", "precautions": "Avoid cold water", "contraindications": "Hypertension"},
+
+  {"disease": "Common Cold", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Trikatu Churna", "dosage": "500mg twice daily", "precautions": "Avoid cold exposure", "contraindications": "Hyperacidity"},
+  {"disease": "Common Cold", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Sitopaladi Churna", "dosage": "1 tsp with honey thrice daily", "precautions": "Warm fluids", "contraindications": "Diabetes"},
+  {"disease": "Common Cold", "age_min": 5, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Anu Taila Nasya", "dosage": "2 drops each nostril", "precautions": "Steam inhalation", "contraindications": "Acute sinusitis"},
+
+  {"disease": "COVID-19", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Ashwagandha + Giloy", "dosage": "500mg each twice daily", "precautions": "Rest and hydration", "contraindications": "Auto-immune conditions"},
+  {"disease": "COVID-19", "age_min": 18, "age_max": 80, "gender": "any", "severity": "moderate", "drug": "Agnitundi Vati", "dosage": "2 tablets thrice daily", "precautions": "Monitor oxygen levels", "contraindications": "None"},
+  {"disease": "COVID-19", "age_min": 30, "age_max": 90, "gender": "any", "severity": "severe", "drug": "Shwasakutar Rasa", "dosage": "125mg thrice daily", "precautions": "Hospital supervision", "contraindications": "Pregnancy"},
+
+  {"disease": "Food Poisoning", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Kutajghan Vati", "dosage": "2 tablets twice daily", "precautions": "ORS hydration", "contraindications": "Kidney disease"},
+  {"disease": "Food Poisoning", "age_min": 5, "age_max": 80, "gender": "any", "severity": "moderate", "drug": "Bilwadi Churna", "dosage": "1 tsp with buttermilk", "precautions": "Bland diet", "contraindications": "Constipation"},
+  {"disease": "Food Poisoning", "age_min": 10, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Sunthi + Nagarmotha Kwath", "dosage": "30ml thrice daily", "precautions": "Hospital if severe", "contraindications": "None"},
+
+  {"disease": "Dengue", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Papaya Leaf Extract", "dosage": "30ml twice daily", "precautions": "Monitor platelets", "contraindications": "Pregnancy"},
+  {"disease": "Dengue", "age_min": 5, "age_max": 60, "gender": "any", "severity": "mild", "drug": "Giloy Satva", "dosage": "250mg thrice daily", "precautions": "Hydration", "contraindications": "None"},
+  {"disease": "Dengue", "age_min": 20, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Sudarshan Churna + Sanjivani Vati", "dosage": "1 tsp + 2 tablets thrice daily", "precautions": "Daily platelet count", "contraindications": "None"},
+
+  {"disease": "Pneumonia", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Vasaka (Malabar Nut)", "dosage": "2-4g daily", "precautions": "Steam inhalation", "contraindications": "Pregnancy"},
+  {"disease": "Pneumonia", "age_min": 10, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Vasa Avaleha", "dosage": "1 tsp thrice daily", "precautions": "Bed rest", "contraindications": "Diabetes"},
+  {"disease": "Pneumonia", "age_min": 25, "age_max": 90, "gender": "any", "severity": "severe", "drug": "Shringyadi Churna", "dosage": "1 tsp with honey thrice daily", "precautions": "Antibiotics mandatory", "contraindications": "None"},
+
+  {"disease": "Allergy", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Haridra Khand", "dosage": "1 tsp with warm milk twice daily", "precautions": "Avoid allergens", "contraindications": "Diabetes (high sugar content)"},
+  {"disease": "Allergy", "age_min": 5, "age_max": 70, "gender": "any", "severity": "moderate", "drug": "Shirishavaleha", "dosage": "1 tsp twice daily", "precautions": "Antihistamine backup", "contraindications": "None"},
+  {"disease": "Allergy", "age_min": 12, "age_max": 60, "gender": "any", "severity": "severe", "drug": "Dashamoola Kwath", "dosage": "30ml twice daily", "precautions": "Avoid known triggers", "contraindications": "Pregnancy"},
+
+  {"disease": "Gastritis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Avipattikar Churna", "dosage": "1 tsp before meals", "precautions": "Avoid spicy food", "contraindications": "Diarrhea"},
+  {"disease": "Gastritis", "age_min": 10, "age_max": 80, "gender": "any", "severity": "moderate", "drug": "Sutshekhar Rasa", "dosage": "125mg twice daily", "precautions": "Avoid alcohol", "contraindications": "None"},
+  {"disease": "Gastritis", "age_min": 20, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Kamadudha Rasa", "dosage": "250mg thrice daily", "precautions": "Small frequent meals", "contraindications": "Constipation"},
+
+  {"disease": "Typhoid", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Sanjivani Vati", "dosage": "2 tablets twice daily", "precautions": "Light diet only", "contraindications": "None"},
+  {"disease": "Typhoid", "age_min": 5, "age_max": 60, "gender": "any", "severity": "mild", "drug": "Guduchi + Kutki", "dosage": "500mg each thrice daily", "precautions": "Hydration", "contraindications": "None"},
+  {"disease": "Typhoid", "age_min": 15, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Mahasudarshan Churna", "dosage": "1 tsp thrice daily", "precautions": "Medical supervision", "contraindications": "Pregnancy"},
+
+  {"disease": "Asthma", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Kanakasava", "dosage": "15-30ml after meals", "precautions": "Avoid dust and smoke", "contraindications": "Pregnancy"},
+  {"disease": "Asthma", "age_min": 5, "age_max": 70, "gender": "any", "severity": "mild", "drug": "Sitopaladi Churna", "dosage": "1 tsp with honey thrice daily", "precautions": "Keep inhaler ready", "contraindications": "None"},
+  {"disease": "Asthma", "age_min": 10, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Vasa + Pippali + Honey", "dosage": "500mg each thrice daily", "precautions": "Avoid cold", "contraindications": "None"},
+
+  {"disease": "Arthritis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Yograj Guggulu", "dosage": "2 tablets twice daily", "precautions": "Warm oil massage", "contraindications": "Thyroid disorders"},
+  {"disease": "Arthritis", "age_min": 25, "age_max": 80, "gender": "any", "severity": "mild", "drug": "Shallaki Capsules", "dosage": "500mg twice daily", "precautions": "Light exercise", "contraindications": "None"},
+  {"disease": "Arthritis", "age_min": 40, "age_max": 90, "gender": "any", "severity": "severe", "drug": "Simhanada Guggulu", "dosage": "2 tablets thrice daily", "precautions": "Avoid cold water", "contraindications": "Pregnancy"},
+
+  {"disease": "Tuberculosis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Chyawanprash + Vasavaleha", "dosage": "1 tsp each twice daily", "precautions": "Consult doctor", "contraindications": "Pregnancy"},
+  {"disease": "Tuberculosis", "age_min": 15, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Yashtimadhu + Pippali", "dosage": "500mg each thrice daily", "precautions": "Take with ATT", "contraindications": "None"},
+  {"disease": "Tuberculosis", "age_min": 20, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Vasa + Tulsi", "dosage": "500mg each thrice daily", "precautions": "Nutritious diet", "contraindications": "None"},
+
+  {"disease": "Eczema", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Neem Capsules + Manjistha", "dosage": "500mg each twice daily", "precautions": "Avoid scratching", "contraindications": "Pregnancy"},
+  {"disease": "Eczema", "age_min": 2, "age_max": 60, "gender": "any", "severity": "moderate", "drug": "Kaishore Guggulu", "dosage": "2 tablets thrice daily", "precautions": "Apply coconut oil", "contraindications": "Diarrhea"},
+  {"disease": "Eczema", "age_min": 10, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Mahamanjisthadi Kwath", "dosage": "30ml twice daily", "precautions": "Avoid synthetic fabrics", "contraindications": "None"},
+
+  {"disease": "Heart Disease", "age_min": 0, "age_max": 120, "gender": "any", "severity": "severe", "drug": "Arjuna Capsules", "dosage": "500mg twice daily", "precautions": "Low-fat diet", "contraindications": "Anticoagulant therapy"},
+  {"disease": "Heart Disease", "age_min": 30, "age_max": 85, "gender": "any", "severity": "moderate", "drug": "Arjunarishta", "dosage": "30ml twice daily after meals", "precautions": "Regular checkup", "contraindications": "None"},
+  {"disease": "Heart Disease", "age_min": 45, "age_max": 90, "gender": "any", "severity": "severe", "drug": "Pushkarmool + Arjuna", "dosage": "500mg each thrice daily", "precautions": "Cardiologist supervision", "contraindications": "None"},
+
+  {"disease": "Diabetes", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Karela + Jamun Powder", "dosage": "1 tsp twice daily before meals", "precautions": "Monitor blood sugar", "contraindications": "Hypoglycemia"},
+  {"disease": "Diabetes", "age_min": 20, "age_max": 80, "gender": "any", "severity": "mild", "drug": "Methi + Amla Powder", "dosage": "1 tsp thrice daily", "precautions": "Low glycemic diet", "contraindications": "None"},
+  {"disease": "Diabetes", "age_min": 35, "age_max": 90, "gender": "any", "severity": "severe", "drug": "Vijaysar Kwath", "dosage": "30ml twice daily", "precautions": "Insulin monitoring", "contraindications": "None"},
+
+  {"disease": "Kidney Infection", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Punarnava Mandura", "dosage": "2 tablets twice daily", "precautions": "Plenty of water", "contraindications": "Severe renal failure"},
+  {"disease": "Kidney Infection", "age_min": 10, "age_max": 75, "gender": "any", "severity": "mild", "drug": "Chandraprabha Vati", "dosage": "2 tablets thrice daily", "precautions": "Cranberry juice", "contraindications": "None"},
+  {"disease": "Kidney Infection", "age_min": 25, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Gokshuradi Guggulu", "dosage": "2 tablets thrice daily", "precautions": "Hospitalization if fever high", "contraindications": "Pregnancy"},
+
+  {"disease": "Jaundice", "age_min": 0, "age_max": 120, "gender": "any", "severity": "moderate", "drug": "Arogyavardhini Vati", "dosage": "2 tablets twice daily", "precautions": "Avoid fatty foods", "contraindications": "Liver failure"},
+  {"disease": "Jaundice", "age_min": 5, "age_max": 60, "gender": "any", "severity": "mild", "drug": "Bhumi Amla Juice", "dosage": "20ml thrice daily", "precautions": "Bed rest", "contraindications": "None"},
+  {"disease": "Jaundice", "age_min": 15, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Kutki + Punarnava", "dosage": "500mg each thrice daily", "precautions": "Liver function monitoring", "contraindications": "Pregnancy"},
+
+  {"disease": "Tonsillitis", "age_min": 0, "age_max": 120, "gender": "any", "severity": "mild", "drug": "Khadiradi Vati", "dosage": "1 tablet every 4 hours", "precautions": "Gargle with warm salt water", "contraindications": "None"},
+  {"disease": "Tonsillitis", "age_min": 3, "age_max": 70, "gender": "any", "severity": "moderate", "drug": "Talisadi Churna", "dosage": "1 tsp with honey thrice daily", "precautions": "Soft diet", "contraindications": "None"},
+  {"disease": "Tonsillitis", "age_min": 8, "age_max": 65, "gender": "any", "severity": "severe", "drug": "Vyoshadi Vati", "dosage": "2 tablets thrice daily", "precautions": "Voice rest", "contraindications": "Pregnancy"},
+
+  {"disease": "Erectile Dysfunction", "age_min": 30, "age_max": 70, "gender": "male", "severity": "moderate", "drug": "Vajikaran Churna", "dosage": "1 tsp with milk at night", "precautions": "Lifestyle change", "contraindications": "Heart disease"},
+  {"disease": "Erectile Dysfunction", "age_min": 35, "age_max": 75, "gender": "male", "severity": "mild", "drug": "Ashwagandha + Shilajit", "dosage": "500mg each twice daily", "precautions": "Stress management", "contraindications": "None"},
+  {"disease": "Erectile Dysfunction", "age_min": 40, "age_max": 80, "gender": "male", "severity": "severe", "drug": "Musli Pak", "dosage": "5g with milk twice daily", "precautions": "Consult physician", "contraindications": "Prostate issues"},
+
+  {"disease": "Dandruff", "age_min": 10, "age_max": 60, "gender": "any", "severity": "mild", "drug": "Shikakai + Reetha Powder", "dosage": "Wash hair twice weekly", "precautions": "Oil scalp", "contraindications": "None"},
+  {"disease": "Dandruff", "age_min": 15, "age_max": 55, "gender": "any", "severity": "moderate", "drug": "Neem + Tulsi Pack", "dosage": "Apply paste 30 min before wash", "precautions": "Avoid chemical shampoos", "contraindications": "None"},
+  {"disease": "Dandruff", "age_min": 20, "age_max": 65, "gender": "any", "severity": "severe", "drug": "Bhringraj Oil + Lemon", "dosage": "Massage scalp overnight weekly", "precautions": "Sun exposure", "contraindications": "None"},
+
+  {"disease": "Bad Breath", "age_min": 5, "age_max": 70, "gender": "any", "severity": "mild", "drug": "Clove + Cardamom", "dosage": "Chew 2-3 seeds post meals", "precautions": "Oral hygiene", "contraindications": "None"},
+  {"disease": "Bad Breath", "age_min": 10, "age_max": 65, "gender": "any", "severity": "moderate", "drug": "Triphala Mouth Rinse", "dosage": "Gargle twice daily", "precautions": "Tongue scraping", "contraindications": "None"},
+  {"disease": "Bad Breath", "age_min": 15, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Yashtimadhu + Lavanga Powder", "dosage": "Apply on gums", "precautions": "Dental checkup", "contraindications": "None"},
+
+  {"disease": "Mouth Ulcer", "age_min": 5, "age_max": 60, "gender": "any", "severity": "mild", "drug": "Yashtimadhu Glycerite", "dosage": "Apply locally thrice daily", "precautions": "Avoid spicy food", "contraindications": "None"},
+  {"disease": "Mouth Ulcer", "age_min": 8, "age_max": 55, "gender": "any", "severity": "moderate", "drug": "Kamdudha Rasa", "dosage": "125mg with honey thrice daily", "precautions": "Avoid acidic food", "contraindications": "None"},
+  {"disease": "Mouth Ulcer", "age_min": 12, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Panchamrit Parpati", "dosage": "250mg thrice daily", "precautions": "B12 supplements", "contraindications": "None"},
+
+  {"disease": "Nosebleed", "age_min": 3, "age_max": 60, "gender": "any", "severity": "mild", "drug": "Ghee + Rosewater Drops", "dosage": "2 drops each nostril", "precautions": "Avoid hot climate", "contraindications": "None"},
+  {"disease": "Nosebleed", "age_min": 5, "age_max": 70, "gender": "any", "severity": "moderate", "drug": "Chandanadi Churna", "dosage": "250mg with water", "precautions": "Apply cold compress", "contraindications": "None"},
+  {"disease": "Nosebleed", "age_min": 10, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Guluchyadi Kwath", "dosage": "30ml twice daily", "precautions": "ENT consultation", "contraindications": "None"},
+
+  {"disease": "Ear Infection", "age_min": 1, "age_max": 60, "gender": "any", "severity": "moderate", "drug": "Bilwa Taila Ear Drops", "dosage": "2 drops twice daily", "precautions": "Keep ear dry", "contraindications": "Perforated eardrum"},
+  {"disease": "Ear Infection", "age_min": 2, "age_max": 65, "gender": "any", "severity": "mild", "drug": "Lashunadi Taila", "dosage": "2 drops at night", "precautions": "Warm oil", "contraindications": "None"},
+  {"disease": "Ear Infection", "age_min": 5, "age_max": 70, "gender": "any", "severity": "severe", "drug": "Shigru + Sunthi Kwath", "dosage": "20ml twice daily", "precautions": "Doctor visit mandatory", "contraindications": "None"},
+
+  {"disease": "Kidney Stones", "age_min": 20, "age_max": 70, "gender": "any", "severity": "moderate", "drug": "Varunadi Kwath", "dosage": "30ml twice daily", "precautions": "Hydration", "contraindications": "None"},
+  {"disease": "Kidney Stones", "age_min": 25, "age_max": 75, "gender": "any", "severity": "mild", "drug": "Gokshura Capsules", "dosage": "500mg thrice daily", "precautions": "Lemon water", "contraindications": "None"},
+  {"disease": "Kidney Stones", "age_min": 30, "age_max": 80, "gender": "any", "severity": "severe", "drug": "Pashanbheda Kwath", "dosage": "30ml thrice daily", "precautions": "Lithotripsy if needed", "contraindications": "Pregnancy"}
+]
